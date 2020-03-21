@@ -6,7 +6,7 @@
 
 - 内存如何存储数据
 
-  ![1583236401985](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583236401985.png)
+ 
 
 - 内存像旅馆
 
